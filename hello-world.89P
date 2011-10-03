@@ -1,0 +1,5 @@
+hellowld()
+:Prgm
+:  ClrIO
+:  Disp "Hello, World!"
+:EndPrgm
